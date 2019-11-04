@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewMoreType</string>
+    <string name="more">more</string>
+</resources>
